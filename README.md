@@ -44,7 +44,7 @@ This analysis leverages Tableau to visualize and derive insights from the Adidas
 
 ### How to Access the Tableau Dashboard
 
-You can view the interactive Tableau dashboard by following this link: [Adidas Sales Dashboard](https://public.tableau.com/profile/yourusername/viz/AdidasSalesDashboard)
+You can view the interactive Tableau dashboard by following this link: [Adidas Sales Dashboard](https://public.tableau.com/views/G6_dashboard/AdidasUSASalesdashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Acknowledgments
 
